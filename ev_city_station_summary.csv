@@ -1,0 +1,124 @@
+Province,City,EV_Count,Charging_Stations
+Ontario,toronto,250934.0,428
+Ontario,hamilton,26036.0,89
+Quebec,sherbrooke,24964.0,100
+Quebec,saguenay,16268.0,16
+Manitoba,winnipeg,12174.0,119
+Ontario,oshawa,12066.0,38
+Ontario,london,12032.0,113
+Quebec,drummondville,11234.0,45
+Quebec,granby,10780.0,41
+Quebec,saint-hyacinthe,8108.0,37
+Ontario,windsor,7002.0,89
+Nova Scotia,windsor,7002.0,89
+Quebec,windsor,7002.0,89
+Ontario,barrie,6382.0,35
+Quebec,victoriaville,6372.0,30
+Quebec,shawinigan,5700.0,24
+Quebec,rimouski,5698.0,45
+Quebec,joliette,5628.0,30
+Ontario,guelph,5412.0,54
+Quebec,salaberry-de-valleyfield,5122.0,16
+Quebec,sorel-tracy,5078.0,18
+New Brunswick,kingston,4074.0,106
+Saskatchewan,saskatoon,3458.0,33
+Quebec,alma,3334.0,26
+Quebec,rouyn-noranda,3252.0,28
+Ontario,brantford,3102.0,19
+Saskatchewan,regina,2946.0,38
+Quebec,thetford mines,2792.0,14
+Quebec,val-d'or,2572.0,23
+Ontario,peterborough,2262.0,32
+Ontario,belleville,1908.0,25
+Quebec,baie-comeau,1884.0,11
+Quebec,cowansville,1712.0,18
+Ontario,thunder bay,1622.0,23
+Quebec,matane,1560.0,21
+Ontario,sarnia,1446.0,17
+Quebec,sainte-marie,1330.0,9
+Ontario,chatham,1302.0,18
+Quebec,lachute,1214.0,13
+Ontario,kawartha lakes,1174.0,1
+Ontario,woodstock,1162.0,34
+New Brunswick,woodstock,1162.0,34
+Yukon,whitehorse,1112.0,9
+Ontario,north bay,1030.0,17
+Prince Edward Island,cornwall,932.0,28
+Ontario,cornwall,932.0,28
+Ontario,centre wellington,912.0,0
+Ontario,sault ste. marie,864.0,6
+Ontario,carleton place,848.0,7
+Ontario,owen sound,814.0,14
+Prince Edward Island,stratford,768.0,22
+Ontario,stratford,768.0,22
+Ontario,collingwood,746.0,15
+Ontario,leamington,730.0,10
+Ontario,brockville,666.0,11
+Manitoba,brandon,642.0,21
+Ontario,orillia,622.0,16
+Ontario,midland,578.0,22
+Ontario,cobourg,514.0,8
+Ontario,wasaga beach,442.0,8
+Ontario,port hope,426.0,13
+Ontario,arnprior,414.0,5
+Saskatchewan,moose jaw,374.0,7
+Ontario,tillsonburg,368.0,5
+Ontario,petawawa,354.0,3
+Ontario,timmins,350.0,5
+Ontario,pembroke,342.0,12
+Saskatchewan,prince albert,264.0,7
+Ontario,ingersoll,242.0,12
+Manitoba,winkler,232.0,4
+Ontario,kenora,198.0,4
+Manitoba,steinbach,164.0,5
+Manitoba,portage la prairie,146.0,6
+Saskatchewan,yorkton,144.0,9
+Saskatchewan,north battleford,142.0,7
+Saskatchewan,swift current,136.0,9
+Saskatchewan,weyburn,100.0,1
+Saskatchewan,estevan,90.0,4
+Ontario,elliot lake,60.0,1
+Manitoba,morris,48.0,9
+Manitoba,thompson,40.0,4
+Ontario,markstay,26.0,0
+Ontario,russell,14.0,3
+Prince Edward Island,souris,14.0,3
+Ontario,merrickville,12.0,0
+Quebec,saint-gabriel,0.0,1
+Quebec,deschambault,0.0,2
+Quebec,cookshire,0.0,0
+Quebec,brownsburg,0.0,2
+Quebec,saint-thomas,0.0,1
+Quebec,saint-guillaume,0.0,1
+Quebec,saint-robert,0.0,2
+Newfoundland and Labrador,grand falls,0.0,4
+Quebec,saint-urbain,0.0,3
+Quebec,sainte-marguerite,0.0,0
+Quebec,stanstead,0.0,3
+Alberta,canmore,0.0,15
+Alberta,camrose,0.0,5
+Alberta,edmonton,0.0,138
+Alberta,cold lake,0.0,3
+Alberta,wood buffalo,0.0,0
+Alberta,grande prairie,0.0,15
+Alberta,high river,0.0,2
+New Brunswick,perth,0.0,4
+Alberta,calgary,0.0,178
+Ontario,cambridge,0.0,126
+Ontario,minto,0.0,1
+Ontario,perth,0.0,4
+New Brunswick,minto,0.0,1
+New Brunswick,grand falls,0.0,4
+New Brunswick,florenceville,0.0,0
+New Brunswick,durham,0.0,10
+Manitoba,boissevain,0.0,0
+New Brunswick,saint-charles,0.0,0
+Alberta,wetaskiwin,0.0,2
+Alberta,sylvan lake,0.0,4
+Alberta,strathmore,0.0,3
+Alberta,red deer,0.0,16
+Alberta,okotoks,0.0,9
+Alberta,medicine hat,0.0,10
+Alberta,lethbridge,0.0,24
+Alberta,lacombe,0.0,3
+Alberta,brooks,0.0,4
